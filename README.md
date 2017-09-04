@@ -1,2 +1,0 @@
-# spingine
-Spingine Corporation
